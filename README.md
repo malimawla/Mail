@@ -20,18 +20,18 @@ body_template = f"""
   <body style="margin:0; padding:0; background: linear-gradient(135deg,#1a1124 0%,#2b183d 100%);
     font-family: 'Inter', Arial, sans-serif; color:#fff;">
     <table align="center" cellpadding="0" cellspacing="0" width="100%"
-      style="max-width:600px; margin:auto; background:#20122b; border-radius:18px;
+      style="max-width:500px; margin:auto; background:#20122b; border-radius:18px;
       border:1px solid #472065;">
       <!-- Logo Centered -->
       <tr>
-        <td style="padding:20px 40px 0 40px; text-align:center;">
-          <img src="{LOGO_URL}" alt="Logo" width="120" style="display:block; max-width:120px; height:auto; margin:auto;" />
+        <td style="padding:0px 40px 0 40px; text-align:center;">
+          <img src="https://i.imgur.com/XgpHNMY.jpeg" alt="Logo" width="120" style="display:block; max-width:120px; height:auto; margin:auto;" />
         </td>
       </tr>
       <!-- Main Event Image full width center -->
       <tr>
         <td style="padding:20px 40px 20px 40px; text-align:center;">
-          <img src="{IMG_URL}" alt="Sociale Event" width="100%" style="max-width:560px; height:auto; border-radius:16px; display:block; margin:auto;" />
+          <img src="https://i.imgur.com/D9OXFON.jpeg" alt="Sociale Event" width="100%" style="max-width:560px; height:auto; border-radius:16px; display:block; margin:auto;" />
         </td>
       </tr>
       <!-- Greeting -->
@@ -65,7 +65,7 @@ body_template = f"""
             </a>
           </p>
           <p style="font-size:16px; line-height:1.5; margin:14px 0; color:#fff;">
-            We also know the queue was long — we’ll make it smoother next time.
+            We also know the queue was long — we’ll make sure to make it smoother next time.
           </p>
           <!-- Signature left aligned & white no bold -->
           <p style="font-size:16px; line-height:1.5; color:#fff; text-align:left; margin-top:30px;">
@@ -78,7 +78,7 @@ body_template = f"""
         <td align="center" style="padding:20px; background:#1a1124;
           border-bottom-left-radius:18px; border-bottom-right-radius:18px;
           font-size:14px; color:#a081d3;">
-          &copy; 2025 Sociale Fam
+          &copy; 2025 Sociale
         </td>
       </tr>
     </table>
