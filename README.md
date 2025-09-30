@@ -7,8 +7,8 @@ SMTP_PORT = 587
 EMAIL_ADDRESS = "sociale.fam@gmail.com"
 EMAIL_PASSWORD = "wcph mpju kyyv vena"
 
-TO_NAME = "Recipient Name"
-TO_EMAIL = "recipient@example.com"
+TO_NAME = "Mali"
+TO_EMAIL = "elmawla.mohamadali@gmail.com"
 
 LOGO_URL = "https://i.imgur.com/XgpHNMY.jpeg"
 IMG_URL = "https://i.imgur.com/D9OXFON.jpeg"
